@@ -15,4 +15,4 @@ Click here [classify_spambase.ipynb](https://github.com/Zuoway/spam_classificati
 * Install the requirements file using **`pip install -r requirements.txt`**
 
 ### Opening the Notebook
-* Within your working directory, using a command-line program, run the following line: **`ipython notebook classify_spambase.ipynb`**
+* Within your working directory, using a command-line program, run the following line: **`jupyter notebook classify_spambase.ipynb`**
